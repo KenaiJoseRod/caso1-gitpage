@@ -14,11 +14,11 @@ const config = {
   url: 'https://documentacion.chat.buho.la',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/documentacion/',
+  baseUrl: '/prueba/',
 
   // GitHub pages deployment config.
-  organizationName: 'chatbuho',
-  projectName: 'documentacion',
+  organizationName: 'KenaiJoseRod',
+  projectName: 'prueba',
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
 
@@ -60,7 +60,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: '<--cambio de logo',
+        title: '<--cambio',
         logo: {
           alt: 'Documentación de Chat Buho',
           src: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Senati_Per%C3%BA_logo.svg/2560px-Senati_Per%C3%BA_logo.svg.png',
